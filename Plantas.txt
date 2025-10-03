@@ -6,3 +6,5 @@ Violeta
 Petunia
 Laurel
 Tulipan
+Lirio
+Orquidea
